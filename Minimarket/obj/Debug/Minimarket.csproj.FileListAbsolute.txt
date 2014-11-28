@@ -1,0 +1,14 @@
+C:\Users\Mike\Documents\My Data\Intermedia\Minimarket\Minimarket\bin\Debug\Minimarket.exe.config
+C:\Users\Mike\Documents\My Data\Intermedia\Minimarket\Minimarket\bin\Debug\Minimarket.exe
+C:\Users\Mike\Documents\My Data\Intermedia\Minimarket\Minimarket\bin\Debug\Minimarket.pdb
+C:\Users\Mike\Documents\My Data\Intermedia\Minimarket\Minimarket\obj\Debug\Minimarket.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\My Data\Intermedia\Minimarket\Minimarket\obj\Debug\Minimarket.Login.resources
+C:\Users\Mike\Documents\My Data\Intermedia\Minimarket\Minimarket\obj\Debug\Minimarket.Properties.Resources.resources
+C:\Users\Mike\Documents\My Data\Intermedia\Minimarket\Minimarket\obj\Debug\Minimarket.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\My Data\Intermedia\Minimarket\Minimarket\obj\Debug\Minimarket.exe
+C:\Users\Mike\Documents\My Data\Intermedia\Minimarket\Minimarket\obj\Debug\Minimarket.pdb
+C:\Users\Mike\Documents\My Data\Intermedia\Minimarket\Minimarket\obj\Debug\Minimarket.Home.resources
+C:\Users\Mike\Documents\My Data\Intermedia\Minimarket\Minimarket\obj\Debug\Minimarket.Browser.resources
+C:\Users\Mike\Documents\minimarket\Minimarket\bin\Debug\Minimarket.exe.config
+C:\Users\Mike\Documents\minimarket\Minimarket\obj\Debug\Minimarket.exe
+C:\Users\Mike\Documents\minimarket\Minimarket\obj\Debug\Minimarket.pdb
